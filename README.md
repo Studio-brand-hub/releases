@@ -5,7 +5,7 @@
 <h1 align="center">Brand Hub Studio</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/verze-0.6.3-2c5bd6" alt="verze 0.6.3">
+  <img src="https://img.shields.io/badge/verze-0.6.4-2c5bd6" alt="verze 0.6.4">
   <img src="https://img.shields.io/badge/macOS-15%2B-1b1f27?logo=apple&logoColor=white" alt="macOS 15+">
   <img src="https://img.shields.io/badge/aktualizace-podepsan%C3%A9-1f7a4d" alt="podepsané aktualizace">
 </p>
@@ -40,7 +40,8 @@ Když vyjde nová verze, Studio nahoře ukáže lištu **Je k dispozici nová ve
 
 | Verze | Datum | Novinky |
 |---|---|---|
-| **0.6.3** | 03.11.2026 | Nový vzhled Studia: sekce značky (Výstupy, Kampaně, Zadání, Šablony, Aktivita) jsou nahoře v liště, seznam značek je v menu ☰. Výstupy jsou přehledná nástěnka s velkými náhledy. V konverzaci vidíte jen odpovědi agenta, jeho kroky jsou schované pod *Podrobnosti* a pole pro psaní už při psaní neposkakuje. Nastavení je rozdělené na *Značku* a *Tento počítač*. |
+| **0.6.4** | 03.11.2026 | Opravy vzhledu v Safari: menu značky nahoře už nemá posuvník a Nastavení se při rolování nekreslí useknuté. U nástrojů v Nastavení vidíte číslo verze a tlačítko Nainstalovat jen u nástroje, který nefunguje. |
+| 0.6.3 | 03.11.2026 | Nový vzhled Studia: sekce značky (Výstupy, Kampaně, Zadání, Šablony, Aktivita) jsou nahoře v liště, seznam značek je v menu ☰. Výstupy jsou přehledná nástěnka s velkými náhledy. V konverzaci vidíte jen odpovědi agenta, jeho kroky jsou schované pod *Podrobnosti* a pole pro psaní už při psaní neposkakuje. Nastavení je rozdělené na *Značku* a *Tento počítač*. |
 | 0.6.2 | 02.11.2026 | Agent si sám hledá na webu: dohledá a ověří fakta, najde vhodnou fotku a rovnou připraví dvě verze postu ke schválení. Nemusíte mu nic nahrávat ani potvrzovat rešerši. Oblíbené weby značky mu stačí napsat do konverzace („přidej si do oblíbených …“). |
 | 0.6.1 | 02.11.2026 | Agent se doptává tlačítky a z konverzace umí navrhnout šablonu zadání. Značku odeberete ze Studia v jejím Nastavení. Po aktualizaci Studio nabídne *Opravit instalaci* (Python 3.12). Značky s pořadem hledají v přepisech epizod a dělají z nich krátké klipy. |
 | 0.6.0 | 27.10.2026 | Aktualizace i v Nastavení, značky se po ní převedou samy. Nová konverzace začíná nabídkou „Co chceš vyrobit?“, v záložce *Šablony* schválíte šablony od grafika a posty, karusely i prezentace vyrobíte bez Figmy. Schválené výstupy se samy ukládají na Disk značky. |
